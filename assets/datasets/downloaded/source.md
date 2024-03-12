@@ -1,0 +1,1 @@
+Go to https://beta.data.gov.sg/collections/189/view to download datasets to this folder
